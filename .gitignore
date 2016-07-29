@@ -1,10 +1,2 @@
-# ignore .class
-*.class
-.settings
-*.asc
-*.jar
-*.swp
-.idea
-*.iml
-target
-pom.xml.versionsBackup
+/bin/
+/target/
