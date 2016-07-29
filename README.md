@@ -9,7 +9,7 @@ the same code base for deployment to AWS Lambda.
 `artifact id: lambduh-maven-annotations`<br />
 `version:1.0.0`<br />
 
-`
+```java
 /**
  * Hello world!
  *
@@ -27,4 +27,4 @@ public class App
         System.out.println( "Goodbye World!" );
     }
 }
-` 
+``` 
